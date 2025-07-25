@@ -8,7 +8,7 @@ WARNING! --> EXTREMELY AUTISTIC
 
 ### [&#x200B;](#)Here's some info about (me):
 
-* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever i need to learn in order to get a useless diploma)
+* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
 * Currently looking into modding stuff and frame data.
 * I speak both English and Spanish fluently (although im learning Japanese rn)
 * If you have ANY problem with the way i am or behave, please say it. Every day is an opportunity to improve.
