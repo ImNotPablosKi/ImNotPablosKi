@@ -12,7 +12,7 @@ WARNING! --> THIS USER IS AUTISTIC, WILL START YAPPING ABOUT MUSIC AND VIDEOGAME
 * Currently looking into modding stuff and frame data.
 * I speak both English and Spanish fluently (although im learning Japanese rn)
 * If you have ANY problem with the way i am or behave, please say it. Every day is an opportunity to improve.
-* I have no enemies. I'm always chill, with anyone, regardless of political views or anything really.
+* I have no enemies. I'll always chill with anyone, regardless of political views or anything, really.
 * I hate the antichrist.
 
 ## Hobbies:
