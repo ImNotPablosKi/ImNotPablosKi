@@ -10,18 +10,14 @@ WARNING! --> EXTREMELY AUTISTIC
 
 * Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
 * Currently looking into modding stuff and frame data.
-* I speak both English and Spanish fluently (although im learning Japanese rn)
-* If you have ANY problem with the way i am or behave, please say it. Every day is an opportunity to improve.
-* I have no enemies. I'll always chill with anyone, regardless of political views or anything, really.
+* I speak both English and Spanish fluently.
 * I hate the antichrist.
 
-## Hobbies:
+## Hobbies (duh):
 
 * I enjoy music a lot, mostly interested in alt metal and shoegaze. I also listen to OSTs from time to time.
 * Souls games PvP (i suck tho) / I have over 1K Hours into Elden Ring and i can't strafe a damn halberd :D
-* Just hanging out with anyone who i consider a friend, i used to hate being around people but that belongs to the past.
-* Knowing how others feel and think, i like to understand my environment as much as i can.
-
+* Just hanging out with anyone who i consider a friend, i have no enemies.
 -----------------------------------------------------------
 
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
