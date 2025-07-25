@@ -3,6 +3,7 @@
 Hi! This is just another random profile made for academic purposes.
 
 Don't take anything i say / said / will say seriously; my head is a maze and i can't figure it out at all.
+
 WARNING! --> THIS USER IS AUTISTIC, WILL START YAPPING ABOUT MUSIC AND VIDEOGAMES RANDOMLY (And it might make you feel uncomfortable)
 
 ### [&#x200B;](#)Here's some info about (me):
