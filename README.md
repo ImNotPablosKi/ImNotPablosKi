@@ -1,6 +1,6 @@
 ## Welcome // Bienvenid@.
 
-Hi! This is just another random profile made for academic purposes.
+Hi! This is just another random profile built for academic purposes.
 
 Don't take anything i say / said / will say seriously.
 
