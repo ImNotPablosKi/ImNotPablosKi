@@ -13,4 +13,3 @@ Don't take anything i say / said / will say seriously.
 
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
-![:ImNotPablosKi](https://counter.imnotpabloski.me/get/@imnotpabloski?theme=rule34)
