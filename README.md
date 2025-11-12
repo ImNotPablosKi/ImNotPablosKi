@@ -13,7 +13,7 @@ Don't take anything i say / said / will say seriously.
 * I hate the antichrist.
 * Uh, this, if anything:
   
-<img width="80%" height="1479" alt="Pablo" src="https://github.com/user-attachments/assets/5756af8b-e2ec-4bb2-9740-91817ee978f5" />
+<img style="border-radius: 7px; border: 2px solid black;" width="80%" height="1479" alt="Pablo" src="https://github.com/user-attachments/assets/5756af8b-e2ec-4bb2-9740-91817ee978f5" />
 
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
