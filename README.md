@@ -12,8 +12,9 @@ Don't take anything i say / said / will say seriously.
 * I speak both English and Spanish fluently.
 * I hate the antichrist.
 * Uh, this, if anything:
-  
-<img style="border-radius: 7px" width="80%" height="1479" alt="Pablo" src="https://github.com/user-attachments/assets/5756af8b-e2ec-4bb2-9740-91817ee978f5" />
+
+  ![Pablo](https://github.com/user-attachments/assets/9cc08c0f-fb07-4f32-be6c-7be5c59a63a8)
+
 
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
