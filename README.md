@@ -11,6 +11,9 @@ Don't take anything i say / said / will say seriously.
 * Currently looking into modding stuff and frame data.
 * I speak both English and Spanish fluently.
 * I hate the antichrist.
+* Uh, this, if anything:
+  
+<img width="4346" height="1479" alt="Pablo" src="https://github.com/user-attachments/assets/5756af8b-e2ec-4bb2-9740-91817ee978f5" />
 
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
