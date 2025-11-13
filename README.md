@@ -5,9 +5,9 @@ Hi! This is just another random profile built for academic purposes.
 
 Don't take anything i say / said / will say seriously.
 
-### [&#x200B;](#)Here's some info about (me):
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=gotham" alt="notpabloski" />
+
+### [&#x200B;](#)Here's some info about (me):
 
 * Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
 * Currently looking into modding stuff and frame data.
