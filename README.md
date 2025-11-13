@@ -7,6 +7,8 @@ Don't take anything i say / said / will say seriously.
 
 ### [&#x200B;](#)Here's some info about (me):
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=gotham" alt="notpabloski" />
+
 * Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
 * Currently looking into modding stuff and frame data.
 * I speak both English and Spanish fluently.
