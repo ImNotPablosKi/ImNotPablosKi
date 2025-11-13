@@ -19,6 +19,6 @@ Don't take anything i say / said / will say seriously.
 
   ![Pablo](https://github.com/user-attachments/assets/9cc08c0f-fb07-4f32-be6c-7be5c59a63a8)
 
-
+## This is uh, cool? i guess?
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
