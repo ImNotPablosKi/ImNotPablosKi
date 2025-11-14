@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotPablosKi&layout=donut&theme=omni)](https://github.com/ImNotPablosKi/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=omni" alt="notpabloski" />
 
     
-## Package DAMIESCH
+## averageDAMConvo.java
 ```java
 
 public class DAM {
