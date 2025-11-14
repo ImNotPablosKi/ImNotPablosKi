@@ -5,6 +5,28 @@ Hi! This is just another random profile built for academic purposes.
 
 Don't take anything i say / said / will say seriously.
 
+<details>
+
+<summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
+
+### [&#x200B;](#)Here's some info about (me):
+
+* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
+* Currently looking into modding stuff and frame data.
+* I speak both English and Spanish fluently.
+* I hate the antichrist.
+* Uh, this, if anything:
+
+  ![Pablo](https://github.com/user-attachments/assets/9cc08c0f-fb07-4f32-be6c-7be5c59a63a8)
+
+## This is uh, cool? i guess?
+https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
+
+</details>
+
+
+
+
 ### My Stats (bleh)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=omni" alt="notpabloski" />
@@ -36,24 +58,4 @@ public class DAM {
 }
 
 ```
-<details>
-
-<summary><h2> Click if you wanna learn more (for some reason?) </h2></summary>
-
-### [&#x200B;](#)Here's some info about (me):
-
-* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
-* Currently looking into modding stuff and frame data.
-* I speak both English and Spanish fluently.
-* I hate the antichrist.
-* Uh, this, if anything:
-
-  ![Pablo](https://github.com/user-attachments/assets/9cc08c0f-fb07-4f32-be6c-7be5c59a63a8)
-
-## This is uh, cool? i guess?
-https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
-
-</details>
-
-
 
