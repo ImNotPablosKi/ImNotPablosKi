@@ -9,6 +9,32 @@ Don't take anything i say / said / will say seriously.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=gotham" alt="notpabloski" />
 
+```java
+
+public class DAM {
+    public static void main (String[] args) {
+        public static final breva = true;
+
+        while (breva) {
+            String Juanma = "Como un pulpo en un garaje..."
+            String Pascual = "eh eh al talleh quilez, ya vale eh vale porque ya vale"
+            String Iker = "Madura"
+
+            pillarPorBanda(iker);
+
+            ArrayList<String> losBuenos = new ArrayList<>();
+
+            losBuenos.add("PC1 Pablo")
+            losBuenos.add("PC2 Héctor ")
+            losBuenos.add("PC3 Andrés")
+            losBuenos.add("PC4 Alonso")
+        }
+
+    }
+}
+
+```
+
 ### [&#x200B;](#)Here's some info about (me):
 
 * Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
