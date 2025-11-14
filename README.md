@@ -16,9 +16,9 @@ public class DAM {
         public static final breva = true;
 
         while (breva) {
-            String Juanma = "Como un pulpo en un garaje..."
-            String Pascual = "eh eh al talleh quilez, ya vale eh vale porque ya vale"
-            String Iker = "Madura"
+            String Juanma = "Como un pulpo en un garaje...";
+            String Pascual = "eh eh al talleh quilez, ya vale eh vale porque ya vale";
+            String Iker = "Madura";
 
             pillarPorBanda(iker);
 
