@@ -30,7 +30,15 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotPablosKi&layout=donut&theme=omni)](https://github.com/ImNotPablosKi/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=omni" alt="notpabloski" />
 
-    
+## Currently On:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="[https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)"/>
+</p>
+
 ## averageDAMConvo.java
 ```java
 
