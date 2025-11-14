@@ -43,7 +43,7 @@ public class DAM {
             String Pascual = "eh eh al talleh quilez, ya vale eh vale porque ya vale";
             String Iker = "Madura";
 
-            pillarPorBanda(iker);
+            pillarPorBanda(Iker);
 
             ArrayList<String> losBuenos = new ArrayList<>();
 
