@@ -69,7 +69,7 @@ public class DAM {
 
 ```
 
-## (Kinda) Serious Work:
+### (Kinda) Serious Work:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotPablosKi&repo=DAM1202526&theme=omni" />
 </a>
