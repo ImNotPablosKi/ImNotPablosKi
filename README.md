@@ -38,7 +38,7 @@ public class DAM {
 ```
 <details>
 
-<summary>Tips for collapsed sections</summary>
+## <summary> Click if you wanna learn more (for some reason?) </summary>
 
 ### [&#x200B;](#)Here's some info about (me):
 
