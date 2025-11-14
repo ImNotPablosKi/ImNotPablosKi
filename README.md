@@ -24,10 +24,10 @@ public class DAM {
 
             ArrayList<String> losBuenos = new ArrayList<>();
 
-            losBuenos.add("PC1 Pablo")
-            losBuenos.add("PC2 Héctor ")
-            losBuenos.add("PC3 Andrés")
-            losBuenos.add("PC4 Alonso")
+            losBuenos.add("PC1 Pablo");
+            losBuenos.add("PC2 Héctor ");
+            losBuenos.add("PC3 Andrés");
+            losBuenos.add("PC4 Alonso");
         }
 
     }
