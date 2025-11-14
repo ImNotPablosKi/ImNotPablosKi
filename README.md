@@ -7,9 +7,9 @@ Don't take anything i say / said / will say seriously.
 
 ### My Stats (bleh)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=midnight-purple" alt="notpabloski" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=omni" alt="notpabloski" />
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotPablosKi&layout=pie&theme=midnight-purple)](https://github.com/ImNotPablosKi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotPablosKi&layout=pie&theme=omni)](https://github.com/ImNotPablosKi/github-readme-stats)
 
 ```java
 
