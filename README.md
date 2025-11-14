@@ -68,4 +68,9 @@ public class DAM {
 }
 
 ```
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotPablosKi&repo=DAM1202526&theme=omni" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotPablosKi3&repo=AWEB_REPO_24-25&theme=omni" />
+</a>
