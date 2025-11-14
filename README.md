@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3500&pause=1800&color=F341A5&vCenter=true&width=435&lines=Oi!+Welcome+to+my+Profile!;Feel+free+to+take+a+look+at+my+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3000&pause=1800&color=F341A5&vCenter=true&width=610&lines=Oi!+Welcome+to+my+Profile!;Feel+free+to+take+a+look+at+my+projects.)](https://git.io/typing-svg)
 ### Welcome // Bienvenid@
 
 Hi! This is just another random profile built for academic purposes.
