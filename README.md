@@ -38,7 +38,7 @@ public class DAM {
 ```
 <details>
 
-<summary><h1> Click if you wanna learn more (for some reason?) </h1></summary>
+<summary><h2> Click if you wanna learn more (for some reason?) </h2></summary>
 
 ### [&#x200B;](#)Here's some info about (me):
 
