@@ -36,6 +36,9 @@ public class DAM {
 }
 
 ```
+<details>
+
+<summary>Tips for collapsed sections</summary>
 
 ### [&#x200B;](#)Here's some info about (me):
 
@@ -49,4 +52,8 @@ public class DAM {
 
 ## This is uh, cool? i guess?
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
+
+</details>
+
+
 
