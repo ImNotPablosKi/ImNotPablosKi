@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3000&pause=1500&color=F341A5&vCenter=true&width=610&lines=Oi!+Welcome+to+my+Profile!;Feel+free+to+take+a+look+at+my+projects.)](https://git.io/typing-svg)
 ### Welcome // Bienvenid@
 
-Hi! This is just another random profile built for academic purposes.
+#### Hi! This is just another random profile built for academic purposes.
 
-Don't take anything i say / said / will say seriously.
+#### Don't take anything i say / said / will say seriously.
 
 <details>
 
