@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3500&pause=1500&color=9C10F7&width=435&lines=Oi!+Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ### Welcome // Bienvenid@
 
 Hi! This is just another random profile built for academic purposes.
