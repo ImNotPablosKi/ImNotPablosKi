@@ -46,10 +46,13 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 ```java
 
 public class DAM {
+
     public static void main (String[] args) {
+
         public static final breva = true;
 
         while (breva) {
+
             String Juanma = "Como un pulpo en un garaje...";
             String Pascual = "eh eh al talleh quilez, ya vale eh vale porque ya vale";
             String Iker = "Madura";
@@ -62,9 +65,11 @@ public class DAM {
             losBuenos.add("PC2 Héctor ");
             losBuenos.add("PC3 Andrés");
             losBuenos.add("PC4 Alonso");
+
         }
 
     }
+
 }
 
 ```
