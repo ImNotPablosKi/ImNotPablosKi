@@ -5,7 +5,6 @@
 
 #### Hi! This is just another random profile built for academic purposes.
 #### *Don't take anything i say / said / will say seriously.*
-![bounce](https://github.com/user-attachments/assets/843eb2a4-08db-4a7b-b2a7-4e314b289822)
 <details>
 
 <summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
