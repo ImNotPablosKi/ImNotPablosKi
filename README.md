@@ -5,7 +5,6 @@
 
 #### Hi! This is just another random profile built for academic purposes.
 #### Don't take anything i say / said / will say seriously.
-
 <details>
 
 <summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
