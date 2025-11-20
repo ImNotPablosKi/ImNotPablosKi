@@ -3,7 +3,7 @@
   <h2> Welcome // Bienvenid@ </h2>
 </p>
 
-### Bro i'm straight up not having a good time.
+#### Bro i'm straight up not having a good time.
 <details>
 
 <summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
