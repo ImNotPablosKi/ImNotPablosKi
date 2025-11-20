@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste...)](https://git.io/typing-svg)
 <p align="center">
-  <h3> Welcome // Bienvenid@ </h3>
+  <h2> Welcome // Bienvenid@ </h2>
 </p>
-
-### Hi! This is just another random profile built for academic purposes.
 ### Bro i'm straight up not having a good time.
 <details>
 
