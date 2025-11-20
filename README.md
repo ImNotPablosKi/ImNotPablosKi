@@ -2,6 +2,7 @@
 <p align="center">
   <h2> Welcome // Bienvenid@ </h2>
 </p>
+
 ### Bro i'm straight up not having a good time.
 <details>
 
