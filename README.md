@@ -4,7 +4,7 @@
 </p>
 
 #### Hi! This is just another random profile built for academic purposes.
-#### *Don't take anything i say / said / will say seriously.*
+ Bro i'm straight up not having a good time.
 <details>
 
 <summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
