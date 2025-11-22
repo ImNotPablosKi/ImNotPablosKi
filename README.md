@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=25&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=20&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste+.+.+.)](https://git.io/typing-svg)
 <p align="center">
   <h2> Welcome // Bienvenid@ </h2>
 </p>
