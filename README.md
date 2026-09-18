@@ -25,9 +25,9 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 ### My Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)
 
 ## Currently On:
 
