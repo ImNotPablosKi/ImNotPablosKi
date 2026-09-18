@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 
 
-### My Stats
+### My Stats (i got all my stuff on private lmaoo)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)
 
