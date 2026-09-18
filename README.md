@@ -72,11 +72,4 @@ public class DAM {
 
 ### (Kinda) Serious Work:
 ---
-<p align="center">
-  <a href="https://github.com/ImNotPablosKi/DAM1202526">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotPablosKi&repo=DAM1202526&theme=omni" />
-  </a>
-  <a href="https://github.com/ImNotPablosKi/AWEB_REPO_24-25">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImNotPablosKi&repo=AWEB_REPO_24-25&theme=omni" />
-  </a>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ImNotPablosKi&repo=anuraghazra%2Fgithub-readme-stats&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
