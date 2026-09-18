@@ -25,7 +25,9 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 ### My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotPablosKi&layout=donut&theme=omni)](https://github.com/ImNotPablosKi/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api?username=ImNotPablosKi&show_icons=true&theme=omni" alt="notpabloski" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=hector6933&rank_icon=github&include_all_commits=true&theme=chartreuse-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=9&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=hector6933&layout=compact&langs_count=9&theme=chartreuse-dark)
 
 ## Currently On:
 
