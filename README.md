@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)
 
-## Currently On:
+## Learning:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
