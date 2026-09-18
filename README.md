@@ -13,9 +13,9 @@
 * Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
 * Currently looking into modding stuff and frame data.
 * I speak both English and Spanish fluently.
-* I hate the antichrist.
+* idk
 
-## This is uh, cool? i guess?
+## cool video
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 </details>
