@@ -72,4 +72,4 @@ public class DAM {
 
 ### (Kinda) Serious Work:
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ImNotPablosKi&repo=anuraghazra%2Fgithub-readme-stats&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ImNotPablosKi&repo=ImNotPablosKi%2FDAM22627&theme=omni)](https://github.com/ImNotPablosKi/DAM22627)
