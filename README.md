@@ -24,7 +24,17 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 
 ### My Stats (i got all my stuff on private lmaoo)
+<p align="center">
 
+  <a href="https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly">
+    <img src="https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly" alt="stats" />
+  </a>
+  <br><br>
+  <a href="(https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly">
+    <img src="(https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly" alt="langs" />
+  </a>
+  
+</p>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)](https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=ImNotPablosKi&layout=compact&langs_count=9&theme=jolly)
