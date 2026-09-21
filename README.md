@@ -23,6 +23,7 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 
 <h2 align="center">My Stats</h2>
+<h5 align="center">I got all my stuff on private lmaoo</h5>
 
 <p align="center">
 
