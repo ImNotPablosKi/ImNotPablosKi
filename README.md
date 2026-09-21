@@ -1,24 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=22&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste+.+.+.)](https://git.io/typing-svg)
 <h1 align="center">Welcome // Bienvenid@</h1>
 
-### Hi! This is just another random profile built for academic purposes.
-<details>
-
-<summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
-
-### [&#x200B;](#)Here's some info about (me):
-
-* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
-* Currently looking into modding stuff and frame data.
-* I speak both English and Spanish fluently.
-* idk
-
-## cool video
-https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
-
-</details>
-
-
+<h3 align="center">Hi! This is just another profile built for academic puposes</h3>
 
 <h2 align="center">My Stats</h2>
 <h4 align="center">I got all my stuff on private lmaoo</h4>
@@ -75,6 +58,22 @@ public class DAM {
 }
 
 ```
+<details>
+
+<summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
+
+### [&#x200B;](#)Here's some info about (me):
+
+* Developer Wannabe, mostly interested in `python` and `java` / `javascript` (though i'll put up with whatever)
+* Currently looking into modding stuff and frame data.
+* I speak both English and Spanish fluently.
+* idk
+
+## cool video
+https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
+
+</details>
+
 
 ### (Kinda) Serious Work:
 ---
