@@ -23,8 +23,9 @@ https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 
 
-### My Stats (i got all my stuff on private lmaoo)
+
 <p align="center">
+### My Stats (i got all my stuff on private lmaoo)
 
   <a href="https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly">
     <img src="https://github-stats-extended.vercel.app/api?username=ImNotPablosKi&rank_icon=github&include_all_commits=true&theme=jolly" alt="stats" />
