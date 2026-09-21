@@ -58,6 +58,11 @@ public class DAM {
 }
 
 ```
+
+### (Kinda) Serious Work:
+---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ImNotPablosKi&repo=ImNotPablosKi%2FDAM22627&theme=omni)](https://github.com/ImNotPablosKi/DAM22627)
+
 <details>
 
 <summary><h3> Click if you wanna learn more (for some reason?) </h3></summary>
@@ -73,8 +78,3 @@ public class DAM {
 https://github.com/user-attachments/assets/a36155df-b2db-4ff2-a402-ed5139159073
 
 </details>
-
-
-### (Kinda) Serious Work:
----
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ImNotPablosKi&repo=ImNotPablosKi%2FDAM22627&theme=omni)](https://github.com/ImNotPablosKi/DAM22627)
