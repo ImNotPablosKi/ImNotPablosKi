@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=22&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste+.+.+.)](https://git.io/typing-svg)
-<h1 align="center">Welcome // Bienvenid@</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=550&size=22&duration=3000&pause=1500&color=F341A5&width=610&lines=Oi!+Welcome+to+my+Profile!;Haste+makes+Waste+.+.+." alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">Hi! This is just another profile built for academic puposes</h3>
 
